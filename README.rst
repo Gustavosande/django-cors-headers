@@ -1,6 +1,10 @@
 django-cors-headers
 ===================
 
+.. image:: https://api.codacy.com/project/badge/Grade/7415a8146a8341369d025b115b069024
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/manual/gustavosandesilva/django-cors-headers?utm_source=github.com&utm_medium=referral&utm_content=Gustavosande/django-cors-headers&utm_campaign=Badge_Grade_Dashboard
+
 .. image:: https://github.com/adamchainz/django-cors-headers/workflows/CI/badge.svg?branch=master
    :target: https://github.com/adamchainz/django-cors-headers/actions?workflow=CI
 
